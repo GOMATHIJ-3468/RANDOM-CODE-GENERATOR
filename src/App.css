@@ -1,0 +1,58 @@
+.App {
+  padding-top: 200px;
+  padding-left: 400px;
+  padding-bottom: 200px;
+  background: rgb(126, 227, 245);
+}
+
+#button{  
+  transform: translate(250px,10px);
+  background: rgb(126, 243, 245);
+  padding: 5px 5px 5px 5px;
+}
+#link{
+  background: cornsilk;
+  transform: translate(-30px,50px);
+  padding-right: 400px;
+}
+#link1{
+  background: cornsilk;
+}
+#link2{
+  background: cornsilk;
+}
+#bkcolor{
+  text-align: center;
+  width:600px;
+  border-radius: 15px;
+  padding: 30px  30px 50px 30px;
+  background: cornsilk;
+}
+#quote1{
+  text-align: center;
+  color: rgb(22, 23, 23);
+  background: cornsilk;
+}
+#quote2{
+  text-align: center;
+  color: rgb(3, 74, 87);
+  padding-left: 400px;
+  background: cornsilk;
+}
+#head{
+  text-align: center;
+}
+#foot{
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 500px;
+  border-style: dotted;
+}
+
+
+
+
+
+
+
+
